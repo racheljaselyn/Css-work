@@ -1,0 +1,10 @@
+div {
+width: 100%;
+max-width: 900px;
+height: 100vw;
+background-color: aqua;
+border: 10px solid black;
+border-width: 2px;
+font-size: 12px;
+font-weight: 400;
+}
