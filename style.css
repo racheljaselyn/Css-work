@@ -1,7 +1,8 @@
 div {
 width 100%;
 height 100vh;
-border: 1px solid black;
+border: 1px solid rgba(163, 9, 9, 0.7);
+background-color: rgb(214, 55, 214, 0.5);
 font-family: "roboto", sans-serif;
 font-size: 12px;
 font-weight: 600;
